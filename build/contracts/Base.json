@@ -1,0 +1,74 @@
+{
+  "contractName": "Base",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.9+commit.e5eed63a\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/Base.sol\":\"Base\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/Base.sol\":{\"keccak256\":\"0xa7464032fe23e7fc459ba1a65d4a9031784c442e22e57f84f557a7c879446805\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://4e1cecca006a61512aada6084ebe8f7d627eb69ba3357afeb83ac15189d392c2\",\"dweb:/ipfs/QmXZkhkNNjJT5DpsF2PnsqrNVLo9YunjvSMrGYe5bHfAJ1\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212203e6b85f85e89d6a33bc6f7c9b78346b77cc99e2ae9c32b4817278563a34f67df64736f6c63430008090033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212203e6b85f85e89d6a33bc6f7c9b78346b77cc99e2ae9c32b4817278563a34f67df64736f6c63430008090033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "57:17:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "57:17:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\n\npragma solidity 0.8.9;\n\ncontract Base {\n}",
+  "sourcePath": "/Users/pjt137/SynologyDrive/proj/junction-blockchain/contracts/Base.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/Base.sol",
+    "exportedSymbols": {
+      "Base": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "0.8",
+          ".9"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:22:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "Base",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Base",
+        "nameLocation": "66:4:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "57:17:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:41:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.9+commit.e5eed63a.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.9",
+  "updatedAt": "2022-08-20T19:19:43.677Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
